@@ -11,7 +11,7 @@ df = pd.read_csv("../input/Admission_Predict.csv")
 print(df.head())
 print(df.columns)
 
-#A little Data Visualization and Data Analysis
+#Boxplots
 
 df.drop(["Serial No.", "Research"], axis = 1).describe()
 
