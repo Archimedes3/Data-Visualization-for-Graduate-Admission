@@ -1,2 +1,2 @@
 # Data-Visualization-for-Graduate-Admission
-Data Visualization, Python
+Visual Data Exploration, using Jupyter Python Notebooks, for Graduate Admission
